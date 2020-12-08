@@ -18,10 +18,9 @@ class TimeContent extends Component {
 
   state = {
     baseDate: (Date.parse(new Date('2020-12-10 24:00:00'))- Date.now()) % 1800000 / 60000,
-    date: (Date.parse(new Date('2020-12-10 24:00:00')) - Date.now()) % 1800000,
+    date: (Date.parse(new Date('2022-12-10 24:00:00')) - Date.now()) % 1800000,
     // date: (Date.parse(new Date('2020-12-10 24:00:00')) - Date.now()) % 5000,
     // date: (Date.parse(new Date('2020-12-9 1:29:40')) - Date.now()) % 1800000,
-    key: 0
   }
 
   render() {
@@ -32,7 +31,7 @@ class TimeContent extends Component {
         <div>
           <Countdown
               date={Date.now() + date}
-              renderer={renderer} key={key}
+              renderer={renderer} 
           />
 
         </div>
