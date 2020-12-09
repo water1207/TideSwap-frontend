@@ -26,4 +26,5 @@ Conflux Portal 是由 Conflux 提供的浏览器插件，目前提供了 Chrome 
 <p align="center">
   <img src="./screenshots/compressed UI.jpg" width="800px">
 </p>
+#### tips: If the image above fails to load, try using VPN to access.
 
