@@ -23,8 +23,6 @@ Conflux Portal 是由 Conflux 提供的浏览器插件，目前提供了 Chrome 
 - 右侧 TideSwap潮汐倒计时
 - 右上角 Conflux Portal 模块
 
-<p align="center">
-  <img src="./screenshots/compressed UI.jpg" width="800px">
-</p>
-tips: If the image above fails to load, try using VPN to access.
+![image](./screenshots/compressed_UI.jpg "UI.jpg")
+### tips: If the image above fails to load, try using VPN to access.
 
